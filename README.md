@@ -45,8 +45,8 @@ O banco de dados `oficina-mecanica` é composto pelas seguintes entidades princi
 │   └── sample_queries.sql         *--> Consultas de prática (SELECT, WHERE, JOIN etc.)*  
 │  
 ├── docs/  
-│   ├── diagrama-eer.png           *--> Imagem do diagrama*  
-│   └── projeto-eer-ecommerce.mwb   *--> Arquivo MySQL WorkBench*  
+│   ├── diagrama-eer-oficina.png   *--> Imagem do diagrama*  
+│   └── projeto-eer-oficina.mwb    *--> Arquivo MySQL WorkBench*  
 │  
 └── README.md
 
